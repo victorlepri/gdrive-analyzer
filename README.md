@@ -14,7 +14,7 @@ A powerful web-based tool for analyzing Google Drive file creation patterns, sto
 
 ## 🚀 Live Demo
 
-**[Try the tool here →](https://victorlepri.github.io/gdrive-analyser/)**
+**[Try the tool here →](https://victorlepri.github.io/gdrive-analyzer/)**
 
 ## 📋 How to Use
 
@@ -28,7 +28,7 @@ gam user your.email@domain.com print filelist corpora allteamdrives fields id,na
 
 ### Step 2: Upload and Analyze
 
-1. Open the [analysis tool](https://victorlepri.github.io/gdrive-analyser/)
+1. Open the [analysis tool](https://victorlepri.github.io/gdrive-analyzer/)
 2. Drag and drop your CSV file into the upload area
 3. The tool will automatically:
    - Filter files from your target folders
@@ -73,8 +73,8 @@ The tool provides:
 
 ```bash
 # Clone the repository
-git clone https://github.com/victorlepri/gdrive-analyser.git
-cd gdrive-analyser
+git clone https://github.com/victorlepri/gdrive-analyzer.git
+cd gdrive-analyzer
 
 # Serve locally (Python 3)
 python -m http.server 8000
@@ -93,9 +93,9 @@ python -m http.server 8000
 ## 📁 Repository Structure
 
 ```
-gdrive-analyser/
-├── index.html
-├── README.md
+gdrive-analyzer/
+├── index.html          # Main application
+├── README.md           # This file
 └── examples/
     └── sample_data.csv # Example CSV format
 ```
