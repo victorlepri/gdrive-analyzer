@@ -1,0 +1,6 @@
+Owner,id,name,createdTime,mimeType,modifiedTime,size,parents.0.id
+user@example.com,1ABC123DEF456GHI789,Project Proposal,2023-03-15T14:30:00Z,application/vnd.google-apps.document,2023-03-16T09:15:00Z,25600,1PARENT123FOLDER456
+user@example.com,1XYZ789ABC123DEF456,Budget Spreadsheet,2023-04-22T11:45:00Z,application/vnd.google-apps.spreadsheet,2023-04-23T16:20:00Z,18900,1PARENT123FOLDER456
+user@example.com,1DEF456GHI789ABC123,Meeting Notes,2024-01-10T10:15:00Z,application/vnd.google-apps.document,2024-01-10T15:30:00Z,12800,1PARENT123FOLDER456
+user@example.com,1GHI789ABC123DEF456,Presentation,2024-02-28T13:20:00Z,application/vnd.google-apps.presentation,2024-03-01T08:45:00Z,52300,1PARENT123FOLDER456
+user@example.com,1JKL012MNO345PQR678,Final Report,2024-06-15T16:10:00Z,application/pdf,2024-06-15T16:10:00Z,89750,1PARENT123FOLDER456
