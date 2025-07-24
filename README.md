@@ -96,6 +96,8 @@ python -m http.server 8000
 gdrive-analyzer/
 ├── index.html          # Main application
 ├── README.md           # This file
+├── assets/
+│   └── screenshot.png  # Tool screenshot
 └── examples/
     └── sample_data.csv # Example CSV format
 ```
@@ -138,3 +140,9 @@ MIT License - Feel free to use this tool for any purpose!
 ## 💡 Inspiration
 
 Created to solve the challenge of understanding Google Drive usage patterns in organizations using GAM exports. Originally built for contract folder analysis but works with any Drive structure.
+
+---
+
+**Made with ❤️ for better Drive analytics**
+
+[Live Tool](https://victorlepri.github.io/gdrive-analyzer/) | [Report Issues](https://github.com/victorlepri/gdrive-analyzer/issues) | [Star on GitHub](https://github.com/victorlepri/gdrive-analyzer)
